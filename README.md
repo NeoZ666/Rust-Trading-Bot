@@ -17,7 +17,7 @@
 1. Sign up a Bybit testnet account
     - link: https://testnet.bybit.com/
 2. Enable 2FA in setting
-3. Run `docker run -it --rm -v $PWD/src/:/home/src rust-bot` in the dir
+3. Run `docker run -it --rm -v $PWD/src/:/home/src rust-bot` in the terminal
 
 ## Future Work
 
