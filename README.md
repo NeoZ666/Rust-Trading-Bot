@@ -18,3 +18,17 @@
     - link: https://testnet.bybit.com/
 2. Enable 2FA in setting
 3. Run `docker run -it --rm -v $PWD/src/:/home/src rust-bot` in the dir
+
+## Future Work
+
+1. Integrating with Paper Trading Platforms using AzureDevops Pipeline for automated trading.
+2. Futures and Options Trading
+3. Learn more Rust.
+
+## Feedback and Issues
+
+If you encounter any issues or have feedback, please [submit an issue](https://github.com/NeoZ666/Rust-Trading-Bot/issues). We appreciate your input!
+
+## Contributing
+
+We welcome contributions from the community. Fork the repository, make your changes, and submit a pull request. See our [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) for more details.
