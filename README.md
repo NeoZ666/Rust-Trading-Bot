@@ -31,4 +31,4 @@ If you encounter any issues or have feedback, please [submit an issue](https://g
 
 ## Contributing
 
-We welcome contributions from the community. Fork the repository, make your changes, and submit a pull request. See Github's [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) for more details.
+Welcoming contributions from the community. Fork the repository, make your changes, and submit a pull request. See Github's [contributing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) for more details.
