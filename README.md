@@ -27,7 +27,7 @@
 
 ## Feedback and Issues
 
-If you encounter any issues or have feedback, please [submit an issue](https://github.com/NeoZ666/Rust-Trading-Bot/issues). We appreciate your input!
+If you encounter any issues or have feedback, please [submit an issue](https://github.com/NeoZ666/Rust-Trading-Bot/issues).Your inputs are appreciated!
 
 ## Contributing
 
