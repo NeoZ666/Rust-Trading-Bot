@@ -21,8 +21,8 @@
 
 ## Future Work
 
-1. Integrating with Paper Trading Platforms using AzureDevops Pipeline for automated trading.
-2. Futures and Options Trading
+1. Integrating with Paper Trading Platforms using AzureDevops Pipeline for automated Trading.
+2. Futures and Options Trading.
 3. Learn more Rust.
 
 ## Feedback and Issues
